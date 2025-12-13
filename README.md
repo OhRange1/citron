@@ -175,26 +175,45 @@ Mods belong to their original creators. Citron includes them with pre-configured
 
 ## Manual Installation (Advanced Users)
 
-> ⚠️ **Warning:** Manual installation replaces your current `.minecraft` folder.  
-> Backup your worlds, servers list, and account files before continuing.
+> ⚠️ **Warning:** Manual installation is a **full overwrite** of your current `.minecraft` folder.  
+> **Back up all personal data before continuing.**
 
-1. **Download the Manual Zip**  
-   Download **Citron [Branch] [MC Version] – MANUAL** from Modrinth.
+### Step 1: Download the Manual Zip
+Download **Citron [Branch] [MC Version] – MANUAL** from the Citron Modrinth page.
 
-2. **Backup your `.minecraft` folder**  
-   Keep these files/folders safe:  
-   - `launcher_accounts.json`  
-   - `launcher_profiles.json`  
-   - `usercache.json`  
-   - `servers.dat`  
-   - `saves/`  
-   - `resourcepacks/`  
+---
 
-3. **Extract the Citron Zip**  
-   Put all files into `.minecraft`.
+### Step 2: Back Up Your `.minecraft` Folder
+Back up **everything inside** your `.minecraft` folder by copying it to a safe location (for example, a folder on your Desktop).
 
-4. **Launch the Correct Version**  
-   Open Minecraft Launcher → Select the Fabric version included in Citron → Play.
+> **Do NOT move or delete these files:**
+> - `launcher_accounts.json`
+> - `launcher_profiles.json`
+> - `usercache.json`
+
+These files must remain in `.minecraft` so the official Minecraft Launcher can detect your account.
+
+---
+
+### Step 3: Clear the Folder for Extraction
+After backing up, your `.minecraft` folder should contain **only** the three account files listed above.
+
+---
+
+### Step 4: Extract the Citron Zip
+Extract the downloaded Citron zip file and move **all contents** (such as `assets/`, `mods/`, `config/`, etc.) directly into your `.minecraft` folder.
+
+---
+
+### Step 5: Restore Personal Data
+Copy any personal files you want to keep (such as `saves/`, `servers.dat`, `resourcepacks/`) from your backup back into the `.minecraft` folder, overwriting duplicates if prompted.
+
+---
+
+### Step 6: Launch the Correct Version
+Open the Minecraft Launcher → select the Fabric version included with Citron → click **Play**.
+
+If installed correctly, Citron will now be loaded.
 
 ---
 
@@ -214,34 +233,34 @@ Mods belong to their original creators. Citron includes them with pre-configured
 # FAQ
 
 ### What is Citron?
-Citron is a performance-focused Minecraft modpack designed to boost FPS, reduce stutter, and improve stability while keeping gameplay vanilla.
+> Citron is a performance-focused Minecraft modpack designed to boost FPS, reduce stutter, and improve stability while keeping gameplay vanilla.
 
 ### Is Citron Fabric only?
-Yes. Citron is **Fabric-exclusive**. A Forge version is not planned.
+> Yes. Citron is **Fabric-exclusive**. A Forge version is not planned.
 
 ### What Minecraft version does Citron support?
-Citron currently supports **Minecraft 1.21.10**. New versions will be supported as soon as key mods update.
+> Citron currently supports **Minecraft 1.21.10**. New versions will be supported as soon as key mods update.
 
 ### Difference between Core and Leaf?
-- **Core:** Performance + QoL HUDs and visuals  
-- **Leaf:** Pure performance, no QoL, lowest latency  
+> - **Core:** Performance + QoL HUDs and visuals  
+> - **Leaf:** Pure performance, no QoL, lowest latency  
 
 ### Can I run Citron on low-end PCs?
-Yes. **Leaf** is designed specifically for low-end hardware.
+> Yes. **Leaf** is designed specifically for low-end hardware.
 
 ### Does Citron change gameplay?
-No. Citron keeps gameplay fully vanilla unless clearly noted.
+> No. Citron keeps gameplay fully vanilla unless clearly noted.
 
 ### Can I customize it?
-Yes. All settings and mods can be edited via Mod Menu.
+> Yes. All settings and mods can be edited via Mod Menu.
 
 ### Does Citron work on servers?
-Yes. Citron is compatible with all vanilla servers.
+> Yes. Citron is compatible with all vanilla servers.
 
 ### How often is it updated?
-Updates release when new Minecraft versions or major mod improvements become available. Alpha builds may release early.
+> Updates release when new Minecraft versions or major mod improvements become available. Alpha builds may release early.
 
 ### Where do I report issues?
-Use the GitHub issue tracker on this repository.
+> Use the GitHub issue tracker on this repository.
 
 ---
