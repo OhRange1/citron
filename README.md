@@ -55,7 +55,8 @@ Citron is a modpack and does **not** own any included mods. All mods are the pro
 - Noisium  
 - PacketFixer  
 - Fast IP Ping  
-- Server Ping Fixer  
+- Server Ping Fixer
+- Stfu
 
 ---
 
@@ -126,7 +127,8 @@ Mods belong to their original creators. Citron includes them with pre-configured
 - CullLeaves  
 - Async Particles Lite  
 - Collision Fix  
-- Better Biome Blend  
+- Better Biome Blend
+- Stfu
 - …and additional lightweight optimizations  
 
 ---
@@ -137,7 +139,6 @@ Mods belong to their original creators. Citron includes them with pre-configured
 - BetterTab  
 - FastQuit  
 - NoChatReports  
-- Melody / Stfu for sound control  
 
 ---
 
@@ -149,7 +150,8 @@ Mods belong to their original creators. Citron includes them with pre-configured
 - Continuity  
 - VMP Fabric  
 - WalksyLib  
-- YACL  
+- YACL
+- Melody
 
 </details>
 
