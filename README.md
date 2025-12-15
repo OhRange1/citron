@@ -1,13 +1,13 @@
 ![Citron Banner](https://cdn.modrinth.com/data/cached_images/62ca3c4df7f5cfae6e5213523f6f52962b66b78e.png)
 
-**Citron is an open-source, performance-focused Minecraft modpack designed to deliver a smooth, responsive, and modern experience for all players. It keeps the game lightweight while refining visuals, optimizing performance, and improving usability — without changing core gameplay.**
+**Citron is an open-source, performance-focused Minecraft modpack designed to deliver a smooth, responsive, and modern experience for all players. It keeps the game lightweight while refining visuals, optimizing performance, and improving usability - without changing core gameplay.**
 
 Citron aims to give the average player a stable, enjoyable, and efficient Minecraft experience. As newer versions become increasingly bloated, Citron focuses on countering that bloat with continuous optimizations and QoL improvements.
 
 Citron is offered in two branches:
 
-- **Citron Leaf** – pure performance and lightweight optimization  
-- **Citron Core** – performance plus QoL enhancements for a modern and refined experience  
+- **Citron Leaf** - pure performance and lightweight optimization  
+- **Citron Core** - performance plus QoL enhancements for a modern and refined experience  
 
 ---
 
@@ -187,63 +187,6 @@ Mods belong to their original creators. Citron includes them with pre-configured
 
 4. **Launch Citron**  
    Select the Citron instance and press **Play**.
-
----
-
-## Manual Installation (Advanced Users)
-
-> ⚠️ **Warning:** Manual installation is a **full overwrite** of your current `.minecraft` folder.  
-> **Back up all personal data before continuing.**
-
-### Step 1: Download the Manual Zip
-Download **Citron [Branch] [MC Version] – MANUAL** from the Citron Modrinth page.
-
----
-
-### Step 2: Back Up Your `.minecraft` Folder
-Back up **everything inside** your `.minecraft` folder by copying it to a safe location (for example, a folder on your Desktop).
-
-> **Do NOT move or delete these files:**
-> - `launcher_accounts.json`
-> - `launcher_profiles.json`
-> - `usercache.json`
-
-These files must remain in `.minecraft` so the official Minecraft Launcher can detect your account.
-
----
-
-### Step 3: Clear the Folder for Extraction
-After backing up, your `.minecraft` folder should contain **only** the three account files listed above.
-
----
-
-### Step 4: Extract the Citron Zip
-Extract the downloaded Citron zip file and move **all contents** (such as `assets/`, `mods/`, `config/`, etc.) directly into your `.minecraft` folder.
-
----
-
-### Step 5: Restore Personal Data
-Copy any personal files you want to keep (such as `saves/`, `servers.dat`, `resourcepacks/`) from your backup back into the `.minecraft` folder, overwriting duplicates if prompted.
-
----
-
-### Step 6: Launch the Correct Version
-Open the Minecraft Launcher → select the Fabric version included with Citron → click **Play**.
-
-If installed correctly, Citron will now be loaded.
-
----
-
-## TLauncher Installation (Not Recommended)
-
-> **Important:** TLauncher is an unofficial and pirated distribution of Minecraft.  
-> Citron does **not** endorse or support TLauncher. Compatibility is not guaranteed.
-
-1. Open TLauncher → Go to **TLMods**  
-2. Search for **“Citron”**  
-3. Select the correct branch and version  
-4. Click **Install**  
-5. Launch the Citron profile  
 
 ---
 
