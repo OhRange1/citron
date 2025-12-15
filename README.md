@@ -174,7 +174,7 @@ Mods belong to their original creators. Citron includes them with pre-configured
 
 # How to Install Citron
 
-## Recommended: Modrinth App
+## Modrinth App (The only way)
 
 1. **Download the Modrinth App**  
    From the official website: `modrinth.com/app`
