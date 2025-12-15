@@ -35,57 +35,72 @@ Citron is developed by Minecraft content creator [**OhRange1**](https://www.yout
 ### Disclaimer
 Citron is a modpack and does **not** own any included mods. All mods are the property of their original creators. Citron bundles them with optimized configurations only.
 
----
-
-### Performance & Optimization Mods
-- Sodium  
-- Lithium  
-- C2ME  
-- Entity Culling  
-- More Culling  
-- FastChest  
-- Dynamic FPS  
-- ImmediatelyFast  
-- FerriteCore  
-- BadOptimizations  
-- Reese’s Sodium Options  
-- Marlow's Crystal Optimizer  
-- Kkonkrette  
-- Scalable Lux  
-- Noisium  
-- PacketFixer  
-- Fast IP Ping  
-- Server Ping Fixer
-- Stfu
+Current mod count: **53**
 
 ---
 
-### QoL & Utility Mods
-- FancyMenu  
-- BetterF3  
-- BetterTab  
-- Armor HUD  
-- Totem Counter  
-- Shulker Tooltip  
-- Effect HUD  
-- Durability Tooltip  
-- Zoomify  
-- Mod Menu  
-- Cloth Config  
-- LazyDFU (unofficial)  
-- UKULIB  
-- YetAnotherConfigLib  
+### Performance & Optimization Mods - [19]
+- **Sodium** - (Faster rendering)
+- **Lithium Fabric** - (Optimizes game logic)
+- **Very Many Players** - (Server tick optimization)
+- **C2ME** - (Multithreaded chunk loading)
+- **Krypton** - (Network speedup)
+- **FerriteCore** - (Reduces RAM usage)
+- **Entity Culling** - (Hides unseen entities)
+- **More Culling** - (Aggressive visibility culling)
+- **Dynamic FPS** - (Background FPS reducer)
+- **ImmediatelyFast** - (Faster block rendering)
+- **Fast Chest Revived** - (Optimizes chest rendering)
+- **Lazy DFU [Unofficial]** - (Speeds up loading)
+- **Marlow's Crystal Optimizer** - (Optimized crystal rendering)
+- **Scalable Lux** - (Fast light engine)
+- **Noisium** - (Reduces sound overhead)
+- **Fast IP Ping** - (Quicker server pings)
+- **Server Pinger Fixer** - (Prevents ping freeze)
+- **PacketFixer** - (Network stability fix)
+- **BadOptimizations** - (Various small fixes)
 
 ---
 
-### Core Libraries
-- Fabric API  
-- Fabric Language Kotlin  
-- Forge Config API Port  
-- ModernFix  
-- Continuity  
-- WalksyLib  
-- VMPLib  
+### QoL & Utility Mods - [22]
+- **FancyMenu** - (Customizable main menu)
+- **Mod Menu** - (In-game config access)
+- **Zoomify** - (Smooth client zoom)
+- **Reese's Sodium Options** - (Better Sodium settings)
+- **UkusArmorHUD** - (Durability overlay display)
+- **TotemCounter** - (Tracks totem quantity)
+- **Shulker Box Tooltip** - (View shulker contents)
+- **Status Effect Timer** - (Shows potion time)
+- **Durability Tooltip** - (Shows numeric durability)
+- **STFU** - (Mutes annoying sounds)
+- **Fast Quit** - (Instant game exit)
+- **No Chat Reports** - (Disables message signing)
+- **Language Reload** - (Instant language change)
+- **Iris** - (Shaders compatibility layer)
+- **Sodium Extra** - (Sodium QoL features)
+- **Skin Layers 3D** - (3D skin depth)
+- **Melody** - (Minor QoL tweaks)
+- **AppleSkin** - (Shows food saturation)
+- **Better Biome Blend** - (Smoother biome colors)
+- **BetterF3** - (Improved F3 screen)
+- **Better Tab** - (Detailed player list)
+- **Custom Window Title** - (Change window name)
+
+---
+
+### Core Libraries & APIs - [12]
+- **Fabric API** - (Core modding library)
+- **Fabric Language Kotlin** - (Kotlin language library)
+- **YetAnotherConfigLib (YACL)** - (Configuration menu tool)
+- **Cloth Config** - (Configuration GUI library)
+- **Forge Config API Port** - (Forge config compatibility)
+- **SuperMartijn542 Config Lib** - (SuperMartijn config library)
+- **UkuLib** - (Library for Uku mods)
+- **WalksyLib** - (Library for Walksy mods)
+- **ModernFix** - (Core game fixes)
+- **Continuity** - (Connected textures API)
+- **Konkrete** - (Rendering utility library)
+- **Neo-Tooltip Fix** - (Tooltip rendering fix)
 
 </details>
 
