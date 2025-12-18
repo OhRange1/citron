@@ -1,0 +1,56 @@
+name: Bug Report
+description: Report a technical issue or performance regression
+title: "[BUG]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Provide a concise summary of the issue.
+      placeholder: What happened?
+    validations:
+      required: true
+
+  - type: dropdown
+    id: branch
+    attributes:
+      label: Citron Branch
+      options:
+        - Citron Core 
+        - Citron Leaf 
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Minecraft & Citron Version
+      placeholder: e.g., Fabric 1.21.10 / Citron v1.0.0
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Reproduction Steps
+      placeholder: |
+        1. Open the game...
+        2. Click on...
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs and Attachments
+      description: Drag and drop your latest.log, crash report, or screenshots directly into this box.
+      placeholder: Attach files by dragging and dropping them here.
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional Context
+      description: Hardware specifications (CPU/GPU) or additional mods.
