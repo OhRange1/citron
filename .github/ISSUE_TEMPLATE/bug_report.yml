@@ -26,17 +26,19 @@ body:
     id: version
     attributes:
       label: Minecraft & Citron Version
-      placeholder: e.g., Fabric 1.21.10 / Citron v1.0.0
+      placeholder: e.g., Fabric 1.21.1 / Citron v1.0.0
     validations:
       required: true
 
   - type: textarea
     id: steps
     attributes:
-      label: Reproduction Steps
+      label: Explain the actions you took
+      description: What steps did you take to encounter this bug?
       placeholder: |
-        1. Open the game...
-        2. Click on...
+        1. 
+        2. 
+        3. 
     validations:
       required: true
 
