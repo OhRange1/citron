@@ -1,21 +1,31 @@
-MIT License
+Citron Modpack License (CML) v1.0
 
-Copyright (c) 2025 OhRange1
+Copyright © 2025 OhRange1
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Scope
+The Citron Modpack contains third-party Minecraft mods. This license applies only to Citron’s own content:
+- Pack structure and folder organization
+- Configuration files, including custom mod configurations and options.txt
+- Branding, logos, banners, and custom backgrounds
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+All third-party mods remain under their original licenses (MIT, Apache‑2.0, LGPLv3, ARR with permission, or other custom licenses).
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Permissions
+You may:
+- Download, install, and use the Citron Modpack for personal or public use.
+- Redistribute the Citron original content under this license, provided that third-party mods retain their original licenses.
+
+3. Branding
+- Citron branding, logos, and artwork may not be reused, modified, or redistributed without explicit written permission.
+- Redistribution of the modpack must not use Citron branding for derivative packs without permission.
+
+4. Attribution
+- All included third-party mods must retain their original attributions as required by their respective licenses.
+- Citron content redistributed must include this license.
+
+5. Restrictions
+- CML does not apply to third-party mods; you cannot assume the license grants rights to modify or redistribute those mods beyond their original license terms.
+- You may not claim original authorship of Citron content you did not create.
+
+6. Warranty
+The Citron Modpack is provided “as-is,” without any warranty. The author is not responsible for any issues, damages, or conflicts arising from its use
